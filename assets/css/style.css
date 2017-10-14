@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+  }  
+  
+  body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-bottom: 0px;
+  }
+
+.container {
+    width: 100%;
+    height: 1000px;
+    max-width: 1600px;
+    margin: 0 auto;
+    background: url("../images/pattern.jpg");
+}  
+
+.heading {
+    padding: 10px;
+    font-size: 40px;
+    background-color: rgba(211, 102, 13, 0.788);
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+.description {
+    font-size: 16px;
+    color: rgb(45, 151, 45);
+    background-color: bisque;
+    padding: 10px 10px 30px 10px;
+    margin-bottom: 10px;
+}
+
+.random_number {
+    background-color: rgb(72, 209, 125);
+    color: rgb(90, 19, 90);
+    padding-bottom: 68px;
+    font-size: 30px;
+}
+
+.wins_losses {
+    background-color: rgb(100, 216, 181);
+    color: rgb(58, 58, 236);
+    padding: 10px 0px 35px 10px;
+    font-size: 20px;
+}  
+
+.crystals {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.scoretext {
+    color: white;
+    font-size: 16px;
+    background-color: rgb(6, 160, 231);
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.score {
+    color: white;
+    font-size: 30px;
+    background-color: rgb(6, 160, 231);
+    padding-bottom: 30px;
+}  
+  
